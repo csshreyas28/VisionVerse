@@ -1,4 +1,4 @@
-# VisionVerse
+# VisionVerse - Image Generation Tool
 
 VisionVerse is a web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack that utilizes OpenAI's API to generate images based on user-provided prompts.
 
